@@ -12,7 +12,7 @@
 
 - 2 Software Installation 12
 
-- 3 Low Level System Information 13
+- [3 Low Level System Information](03-low-level-system-information.md) 13
 
 - 4 Object Files - 63
 
